@@ -1,0 +1,15 @@
+//This import statement creats a module object called useful_functions.
+
+//Modules are just Python files that contain definitions and statements. To access objects from an imported module, you need to use dot notation.
+
+import useful_functions as uf
+uf.add_five([1,2,3,4])
+
+// Using a main block
+1. if _name_ =='_main_':
+// to avoid executable statements in a script when it is imported as a module in another script.(eg.  test )
+
+2.def main():
+if _name_ == '_main_'
+main()
+//include them in a function called main() and call this in the * if main block
